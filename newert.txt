@@ -1,0 +1,7 @@
+<<<<<<< Updated upstream
+Im doing an essay. oh naur. Ugh UH NOOOOUUUU
+
+Stash mah changes
+=======
+Im doing an essay. oh naur. Ugh UH NOOOOUUUU
+>>>>>>> Stashed changes
